@@ -1,2 +1,3 @@
-# kcms-branding
-KCMS Branding
+# KCMS branding
+
+Basic skin branding.
